@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec549fd2-914e-47a5-8d56-91ccab8ae1b4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
+    <list default="true" id="ec549fd2-914e-47a5-8d56-91ccab8ae1b4" name="Changes" comment="Fixed up variable names and list length">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,9 +54,29 @@
       <option name="presentableId" value="Default" />
       <updated>1711453723092</updated>
     </task>
+    <task id="LOCAL-00001" summary="Finished Project">
+      <option name="closed" value="true" />
+      <created>1711458711221</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711458711221</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Fixed up variable names and list length">
+      <option name="closed" value="true" />
+      <created>1711458831674</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711458831674</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Finished Project" />
+    <MESSAGE value="Fixed up variable names and list length" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed up variable names and list length" />
   </component>
 </project>
